@@ -15,7 +15,7 @@ The floating chat icon should change the size of the dots, one at a time, as the
 
 ### _Project challenge link_
 
-[Project - Floating Chat](http://127.0.0.1:5500/index.html)
+[Project - Floating Chat]( https://layzadev.github.io/icon-animation/)
 
 ### _Social Networks_
 
